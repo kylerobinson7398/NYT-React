@@ -8,3 +8,4 @@ This app uses the full MERN stack to create a React-based rendition of the New Y
 - React  
 - Node
 
+App deployed at https://nyt-react-kylerobinson7398.herokuapp.com/
